@@ -1,0 +1,15 @@
+011|pakistani|punjab
+011||
+Application ID: 1
+Name: uzair
+Father Name: hayat
+Phone: 03271779014
+Email: 
+Guardian Name: hayat
+Guardian Relation: father
+Address: jaisak
+City: sargodha
+Matric Marks: 936
+Intermediate Marks: 771
+Program: bscs
+------------------------------

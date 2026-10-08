@@ -1,0 +1,9 @@
+011|uzair|M.Hayat|male|07/11/2005|3840257048719|03271779014|muzair005566@gmail.com
+011|m uzair|m hayat|male||
+Application ID: 011
+Name: uzair
+Father Name: muhammad hayat
+Gender: male
+Phone: 03271779014
+Email: muzair@gmail.com
+------------------------
